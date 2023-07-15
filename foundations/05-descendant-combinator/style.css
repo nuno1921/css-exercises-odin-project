@@ -1,0 +1,11 @@
+/* Outros tipos de regras que funcionavam neste ex
+.container .text
+div .text
+.container p 
+*/
+div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
